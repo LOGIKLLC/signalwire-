@@ -1,0 +1,19 @@
+{
+  "addons": [
+    "herokuconnect",
+    "heroku-postgresql"
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/php"
+    }
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "signalwire-",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
